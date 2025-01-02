@@ -1,0 +1,6 @@
+@IsTakipSistemi.Backed_HostAddress = http://localhost:5179
+
+GET {{IsTakipSistemi.Backed_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
